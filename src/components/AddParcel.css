@@ -1,0 +1,18 @@
+.add-parcel-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    padding: 2em;
+  }
+  
+  .add-parcel-form input, .add-parcel-form button {
+    padding: 0.5em;
+  }
+  
+  .add-parcel-form button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
